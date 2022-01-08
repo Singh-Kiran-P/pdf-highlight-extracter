@@ -1,0 +1,1 @@
+# pdf-highlight-extracter
